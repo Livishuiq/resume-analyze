@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+logs/
+
+# Generated reports (keep directory, ignore files)
+reports/*.pdf
+reports/*.txt
+!reports/.gitkeep
+
+# Sample data uploads (keep directory)
+sample_data/uploads/
+!sample_data/.gitkeep
+
+# NLTK data (downloaded at runtime)
+nltk_data/
+
+# Misc
+*.bak
+*.tmp
+*.swp
