@@ -10,11 +10,15 @@
 
 **Upload your resume. Paste a job description. Get your ATS score in seconds.**
 
-[🚀 Live Demo](#deployment) · [📖 Docs](#installation) · [🐛 Issues](https://github.com/your-username/resume-analyzer/issues)
+[🚀 Live Demo](https://resume-analyze-25jc6pk6kzj6fntz9xyeun.streamlit.app/) · [📖 Docs](#installation) · [🐛 Issues](https://github.com/your-username/resume-analyzer/issues)
 
-![App Screenshot of home page]([screenshots/dashboard.png](https://kommodo.ai/i/boWGbkZFHqOnki5XFldO))
+![App Screenshot of home page]<img width="953" height="441" alt="app demo mainpage" src="https://github.com/user-attachments/assets/accd0d2e-aa81-4287-a43c-770926f310f0" />
+![App Screenshot of working]<img width="950" height="441" alt="app working_1" src="https://github.com/user-attachments/assets/1addfc6b-0042-4f13-8444-ea689a514828" />
+![App Screenshot of result]<img width="953" height="443" alt="app demo working result" src="https://github.com/user-attachments/assets/cf83e1d3-9fa9-4ec4-a86b-1ae5a28d77bb" />
+
 
 </div>
+
 
 ---
 
