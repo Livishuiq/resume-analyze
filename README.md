@@ -12,7 +12,7 @@
 
 [🚀 Live Demo](#deployment) · [📖 Docs](#installation) · [🐛 Issues](https://github.com/your-username/resume-analyzer/issues)
 
-![App Screenshot](screenshots/dashboard.png)
+![App Screenshot of home page]([screenshots/dashboard.png](https://kommodo.ai/i/boWGbkZFHqOnki5XFldO))
 
 </div>
 
